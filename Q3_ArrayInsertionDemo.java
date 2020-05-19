@@ -5,6 +5,6 @@ public class Q3_ArrayInsertionDemo {
   }
 
   public static void main(String[] args){
-    // Your code here
+    int a = 1;
   }
 }
